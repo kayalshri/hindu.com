@@ -1,4 +1,4 @@
 hindu.com
 =========
 
-Read all articles from hindu.com as simple text context in single page
+Read all articles from hindu.com as simple text content in single page
