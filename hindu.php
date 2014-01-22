@@ -5,7 +5,7 @@
 # DOC : 22-jan-2014
 # License	: Free
 # Description:	Read todays-paper content from hindu.com as text format
-
+# web : http://ngiriraj.com
 # Requirements :
 # mbstring()
 
